@@ -1,0 +1,42 @@
+.body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    font-size: 30px;
+    font-family: "roboto";
+    color: blueviolet;
+    text-align: center;
+    margin: 10px;
+}
+
+.to-red {
+    font-size: 30px;
+    font-family: "roboto";
+    color: red;
+    text-align: center;
+    margin: 10px;
+}
+
+.button {
+    border-width: 0px;
+    border-radius: 7px;
+    background-color: orange;
+    color: black;
+    height: 70px;
+    width: 130px;
+    text-align: center;
+    padding: 4px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
